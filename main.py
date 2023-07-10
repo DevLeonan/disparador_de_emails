@@ -7,7 +7,7 @@ import time
 SMTP_SERVER = 'smtp-mail.outlook.com'
 SMTP_PORT = 587
 SMTP_USERNAME = 'heedoy@hotmail.com'
-SMTP_PASSWORD = '9895742Fel'
+SMTP_PASSWORD = '********'
 
 # Informações sobre as contas a vencer
 contas = [
